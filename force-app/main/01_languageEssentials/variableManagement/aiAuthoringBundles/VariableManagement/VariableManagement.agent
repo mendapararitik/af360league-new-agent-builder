@@ -5,6 +5,7 @@ config:
    agent_name: "VariableManagement"
    agent_label: "VariableManagement"
    description: "Collects user information through a survey using variables"
+   default_agent_user: "replace this with your agent user"
 
 # Variables block: Defines all state that the agent can read and modify
 # Variables are global across all topics in the agent
